@@ -1080,6 +1080,11 @@ rc@1.2.8, rc@^1.2.8:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
+react@^19.1.1:
+  version "19.1.1"
+  resolved "https://registry.yarnpkg.com/react/-/react-19.1.1.tgz#06d9149ec5e083a67f9a1e39ce97b06a03b644af"
+  integrity sha512-w8nqGImo45dmMIfljjMwOGtbmC/mk4CMYhWIicdSflH91J9TyCyczcPFXJzrZ/ZXcgGRFeP6BU0BEJTw6tZdfQ==
+
 readable-stream@^2.1.0:
   version "2.3.8"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.3.8.tgz#91125e8042bba1b9887f49345f6277027ce8be9b"
@@ -1141,10 +1146,10 @@ sax@~1.1.1:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.1.6.tgz#5d616be8a5e607d54e114afae55b7eaf2fcc3240"
   integrity sha512-8zci48uUQyfqynGDSkUMD7FCJB96hwLnlZOXlgs1l3TX+LW27t3psSWKUxC0fxVgA86i8tL4NwGcY1h/6t3ESg==
 
-sdc-qrf@^1.0.0-beta.18:
-  version "1.0.0-beta.18"
-  resolved "https://registry.yarnpkg.com/sdc-qrf/-/sdc-qrf-1.0.0-beta.18.tgz#c6809e2e0aa6ec19a46fcfd8ce192442169b85cc"
-  integrity sha512-3nSFdROvgio1wH87N25Uiy+UaNPrXeTIH+y9BQA88+eTdUjIx2cjU8ggC1Q1KPtSyDOj2B5gUNpX3XQcof/KIg==
+sdc-qrf@^1.0.0-beta.20:
+  version "1.0.0-beta.20"
+  resolved "https://registry.yarnpkg.com/sdc-qrf/-/sdc-qrf-1.0.0-beta.20.tgz#a6c111e83728a811f69a859d81f8ec47f5652c32"
+  integrity sha512-a5CurTiBCT8ylZHQTM0OWX8H6jFJgCUQB4rinhipA1DCBBplhS/cozpKMBQDn20wW89UqnSskxQFA6Qso8FnDA==
   dependencies:
     classnames "^2.5.1"
     fhirpath "^3.18.0"
