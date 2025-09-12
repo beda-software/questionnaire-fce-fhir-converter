@@ -1146,10 +1146,10 @@ sax@~1.1.1:
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.1.6.tgz#5d616be8a5e607d54e114afae55b7eaf2fcc3240"
   integrity sha512-8zci48uUQyfqynGDSkUMD7FCJB96hwLnlZOXlgs1l3TX+LW27t3psSWKUxC0fxVgA86i8tL4NwGcY1h/6t3ESg==
 
-sdc-qrf@^1.0.0-beta.22:
-  version "1.0.0-beta.22"
-  resolved "https://registry.yarnpkg.com/sdc-qrf/-/sdc-qrf-1.0.0-beta.22.tgz#fdbe9bc613e2c9d60e2f72572faf2ff98f96d2f0"
-  integrity sha512-d2mBcsJPIuR3SqkKXqLKF+RsNnptqe58u2r6A1O7ZXreW9AKPpuWxuQtP0W+ulalRGn5VJSuNfpOJw7oKiOVXA==
+sdc-qrf@^1.0.0-beta.23:
+  version "1.0.0-beta.23"
+  resolved "https://registry.yarnpkg.com/sdc-qrf/-/sdc-qrf-1.0.0-beta.23.tgz#40dbeb94740547902ee576361d95bb25ca8a8ae7"
+  integrity sha512-e3rPdpUNh6ph/20kGyLgyrAPEtX/AD1zlArHjakggr6oonWi/ZM9S48iEofueznsGj0opArW2u5WbVYT1Blw3Q==
   dependencies:
     classnames "^2.5.1"
     fhirpath "^3.18.0"
