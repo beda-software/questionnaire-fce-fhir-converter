@@ -17,7 +17,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "react": "^19.1.1",
-    "sdc-qrf": "^1.1.0-alpha.10",
+    "sdc-qrf": "^1.1.0-alpha.11",
     "tslib": "^2.8.1"
   }
 }
