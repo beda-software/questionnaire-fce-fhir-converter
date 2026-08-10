@@ -13,7 +13,7 @@ function validateQuestionnaire(req, res, next) {
 
 app.post('/to-fce', validateQuestionnaire, (req, res) => {
   try {
-    const result = toFirstClassExtension(req.body);
+    const result = toFirstClassExtension(req.body, true);
     res.json(result);
   } catch (e) {
     res.status(500).json({ error: e.message || 'Transformation error' });
