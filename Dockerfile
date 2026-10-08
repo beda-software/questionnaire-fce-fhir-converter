@@ -1,6 +1,6 @@
 FROM node:22-slim
 
-# npm is unused at runtime (`yarn start`) and ships its own vulnerable dependencies.
+# Remove npm: it is unused at runtime (`yarn start`) and ships its own vulnerable dependencies.
 RUN apt-get update && apt-get upgrade -y \
     && apt-get install -y --no-install-recommends curl \
     && rm -rf /var/lib/apt/lists/* \
