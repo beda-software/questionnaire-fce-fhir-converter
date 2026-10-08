@@ -1,0 +1,5 @@
+.git
+.github
+.history
+.pytest_cache
+node_modules
